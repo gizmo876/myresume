@@ -16,8 +16,10 @@
        <div id="header">
            <strong>
            Shakielle Powell
+           </strong>
        </div>
        <p id="info">
+                <strong>
                 Cell: 876-284-1482  <br>
                 Email:</strong> theshvk@gmail.com
        </p>
@@ -41,17 +43,25 @@
        </div>
                               <div class="leftColumn2">
          <strong> <em> Experience </em> </strong>
-       </div>                              <div class="rightColumn">                    <p id="rightHead">
+       </div>                              
+       
+       <div class="rightColumn">                    
+       
+             <p id="rightHead">
              <strong> The University of The West Indies, Mona </strong> 
              </p>
+             
              <p>
               <strong> Major: </strong>
              Computer Science <br> 
               <strong> Year of Completion: </strong>
              2018 
-             </div>
-             </p>                         
-             <div class="rightColumn">                    
+             </p> 
+             
+        </div>
+                                     
+             
+              <div class="rightColumn">                    
              <p id="rightHead2">
                <strong> Computer Skills </strong> 
              </p>
