@@ -1,0 +1,80 @@
+#header {
+  margin-left: 80px;
+  margin-top: 50px;
+  margin-right: 50px;
+  border-bottom: 2px solid #d3d3d3;
+  font-size: 45px
+}
+
+img {
+  float: right;
+  margin-top: 10px;
+  height: 220px;
+  width: 220px;
+  border: 7px solid #d3d3d3;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+  position: absolute;
+  top: 20px;
+  left: 500px
+}
+
+#info {
+    margin-left: 80px;
+    font-size: 16px;
+}
+
+.leftColumn {
+     margin-left: 100px;
+     margin-top: 80px;
+     padding-right: 25px;
+     height: 80px;
+     width: 130px;
+     font-size: 18px;
+     font-family: Arial;
+     border-right: 2px solid #d3d3d3;
+     text-align: right;
+}
+
+.leftColumn2 {
+     margin-left: 100px;
+     margin-top: 30px;
+     padding-right: 25px;
+     height: 80px;
+     width: 130px;
+     font-size: 18px;
+     font-family: Arial;
+     border-right: 2px solid #d3d3d3;
+     text-align: right;
+}
+.rightColumn {
+  position: relative;
+  top: -325px;
+  left: 280px
+}
+#rightHead {
+  font-size: 20px;
+  margin-bottom: -10px;
+  margin-top: 25px
+}
+#rightHead2 {
+  font-size: 20px;
+  margin-bottom: -10px;
+  margin-top: 40px
+}
+#rightHead3 {
+  font-size: 20px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+}
+#rightHead4 {
+  font-size: 20px;
+  margin-bottom: -10px;
+  margin-top: -5px;
+}
+#listFormat {
+  margin-left: -20px;
+}
