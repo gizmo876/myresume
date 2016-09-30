@@ -5,14 +5,12 @@
 
 <head>
   <title>Resume</title>
-  <style type="text/css">
-  <!--
-
-  -->
-  </style>
+  <a rel="stylesheet" type="text/css" href="resume.css">
+  </a>
+  
 </head>
 
-<body>
+   <body>
        <div id="header">
            <strong>
            Shakielle Powell
@@ -61,31 +59,37 @@
         </div>
                                      
              
-              <div class="rightColumn">                    
+        <div class="rightColumn">                    
              <p id="rightHead2">
                <strong> Computer Skills </strong> 
              </p>
-                                                      <p>
+                                                      
+             <p>
              Digital Art/ Graphic Design, Digital Audio Composition, Web Design
              </p>
-     <p id="rightHead3">
+             
+             <p id="rightHead3">
                <strong> Other Capabilities </strong>  
              </p> 
+             
              <p>         
              Sketch and Detailed Drawing, Singing
              </p>
 
-<p id="rightHead4">
+             <p id="rightHead4">
                <strong> Taylor Hall </strong> 
              </p>
-                                                      <p>
+             
+              <p>
                  <ul id="listFormat">
                    <li> Graphic Designer- Block B </li>
                    <li> Taylor Hall Deputy Publications Committee Chairman </li>
                    <li> Taylor Hall Publications Committee Chairman </li>
                   </ul>
              </p>
-             </div>      
-</body>
+             
+       </div>
+       
+   </body>
 
 </html>
