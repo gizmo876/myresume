@@ -4,8 +4,7 @@
 
 <head>
   <title>Resume</title>
-  <a rel="stylesheet" type="text/css" href="resume.css">
-  </a>
+  <link type="text/css" rel="stylesheet" href="resume.css"/>
   
 </head>
 
